@@ -1,0 +1,15 @@
+{
+    "name": "jacop/database_xampp",
+    "autoload": {
+        "psr-4": {
+            "Jacop\\DatabaseXampp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jacopo Fornaro",
+            "email": "jacopofornaro@gmail.com"
+        }
+    ],
+    "require": {}
+}
